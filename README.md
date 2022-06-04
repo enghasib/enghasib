@@ -3,7 +3,7 @@
 [![Follow me on facebook](https://img.shields.io/badge/FB-facebook-blue)][facebook]
 [![Follow me on linkedn](https://img.shields.io/badge/In-linkedIn-blue)][linkedin]
 
-## I'm a Hasib!!
+## I'm Hasib!!
 
 - 🌱 I’m currently learning MERN 🤣
 - 👯 I’m looking to collaborate with other on github
