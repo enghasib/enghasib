@@ -5,7 +5,7 @@
 
 ## I'm Hasib!!
 
-- 🌱 I’m currently learning MERN 🤣
+- 🌱 I’m currently learning NODE 🤣
 - 👯 I’m looking to collaborate with other on github
 - 🥅 2022 Goals: Learn more about JS
 - ⚡ Fun fact: I love to play cricket
