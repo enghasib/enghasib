@@ -11,12 +11,12 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/dev-hasib)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+The+Follow+Button+😊)](https://github.com/dev-hasib)
 
 
 ### 🐼 About Me :
 
-Currently, I'm working as a backend-end developer. I love to develop my skills in Fullstack web development (react-js and node-js). 
+Currently, I'm working as a backend developer. I love to develop my skills in Fullstack web development (react-js and node-js). 
 
 
 ## 😎 Skillset :
