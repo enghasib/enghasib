@@ -3,7 +3,7 @@
 ![Hasib](gitartwork.svg)
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=F70B0B&center=true&vCenter=true&random=true&width=436&lines=Hey%2C+I'm+AL+HASIB;Nodejs+backend+developer" alt="Typing SVG" /></a></h3>
 <a href="https://app.daily.dev/alhasib"><img src="https://api.daily.dev/devcards/7d6d6aceacd84196b86d91ad3bf51f24.png" style="margin: 5px;" width="35%" alt="alhasib's Dev Card"/></a>
-  <a href="https://leetcode.com/ahkz1216/">
+  <a href="https://leetcode.com/hasib_dev/">
   <img src="https://leetcard.jacoblin.cool/ahkz1216?theme=dark&font=Poppins&ext=heatmap" width="60%" style="margin: 5px;"/>
   </a>
 </div>
