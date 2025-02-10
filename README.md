@@ -23,9 +23,9 @@ Currently, I'm working as a backend developer. I love to develop my skills in Fu
 
 #### Programming Languages:   `JavaScript` `ES6` 
 
-#### Javascript backend Frameworks/Libraries:  `expressjs` `mongoosejs`
+#### Javascript backend Frameworks/Libraries:  `expressjs` `mongoose` `Prisma`
 
-#### Databases:`MongoDB`
+#### Databases:`MongoDB` `mySQL` `PostgresSQL`
 
 #### Comfortable with:  `REST API`
 
