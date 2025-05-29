@@ -55,27 +55,3 @@ Currently, I'm working as a backend developer. I love to develop my skills in Fu
 
 <hr>
 
-### 🔥 My GitHub Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-hasib&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=dev-hasib&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hasib&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/>
-</div>
-
-<hr>
-
-<br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/al-hasib/" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/hasib_dev" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.facebook.com/alhasib.me/" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   </a>
-  
-   <br>
-</div>
