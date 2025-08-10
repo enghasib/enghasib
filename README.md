@@ -2,7 +2,7 @@
   
 ![Hasib](gitartwork.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C10000&center=true&vCenter=true&width=435&lines=Hey+I'm+Al+Hasib;Nodejs+and+Go;Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&color=C10000&center=true&vCenter=true&width=435&lines=Hey+I'm+Al+Hasib;Nodejs+and+Go;Back-End+Developer)](https://git.io/typing-svg)
 
 <!-- <a href="https://app.daily.dev/alhasib"><img src="https://api.daily.dev/devcards/7d6d6aceacd84196b86d91ad3bf51f24.png" style="margin: 5px;" width="35%" alt="alhasib's Dev Card"/></a> -->
 
@@ -21,13 +21,13 @@ With a strong curiosity for system internals, APIs, and real-time applications, 
 
 💡 Interests: Backend architecture, system design, networking, and exploring new technologies. </p>
 
-💡 What I love:
+### 💡 What I love:
 
 - Crafting clean, maintainable, and optimized code
 - Designing robust RESTful APIs and backend architectures
 - Continuously learning and exploring modern technologies
 
-🚀 Tech Stack in Progress:
+### 🚀 Tech Stack in Progress:
 
 - Backend: Go, Node.js
 - Database: MySQL, PostgreSQL, MongoDB
@@ -37,7 +37,7 @@ With a strong curiosity for system internals, APIs, and real-time applications, 
 
 
 
-## 😎 Skills:
+### 😎 Skills:
 
 <table>
   <tr>
