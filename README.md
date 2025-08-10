@@ -1,57 +1,79 @@
 <div align="center">
   
 ![Hasib](gitartwork.svg)
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=F70B0B&center=true&vCenter=true&random=true&width=436&lines=Hey%2C+I'm+AL+HASIB;Nodejs+backend+developer" alt="Typing SVG" /></a></h3>
-<a href="https://app.daily.dev/alhasib"><img src="https://api.daily.dev/devcards/7d6d6aceacd84196b86d91ad3bf51f24.png" style="margin: 5px;" width="35%" alt="alhasib's Dev Card"/></a>
-  <a href="https://leetcode.com/hasib_dev/">
-  <img src="https://leetcard.jacoblin.cool/hasib_dev?theme=dark&font=Poppins&ext=heatmap" width="60%" style="margin: 5px;"/>
-  </a>
-</div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C10000&center=true&vCenter=true&width=435&lines=Hey+I'm+Al+Hasib;Nodejs+and+Go;Back-End+Developer)](https://git.io/typing-svg)
+
+<!-- <a href="https://app.daily.dev/alhasib"><img src="https://api.daily.dev/devcards/7d6d6aceacd84196b86d91ad3bf51f24.png" style="margin: 5px;" width="35%" alt="alhasib's Dev Card"/></a> -->
+
+</div>
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+The+Follow+Button+😊)](https://github.com/dev-hasib)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+The+Follow+Button+😊)](https://github.com/dev-hasib) -->
 
 
-### 🐼 About Me :
+### 👋 About Me: 
 
-Currently, I'm working as a backend developer. I love to develop my skills in Fullstack web development (react-js and node-js). 
+<p style="text-align:justify"> I’m a backend developer passionate about building efficient, scalable, and maintainable systems.
+Currently, I’m focusing on mastering Go and Node.js to deliver high-performance backend solutions.
+With a strong curiosity for system internals, APIs, and real-time applications, I love exploring how things work under the hood.
+
+💡 Interests: Backend architecture, system design, networking, and exploring new technologies. </p>
+
+💡 What I love:
+
+- Crafting clean, maintainable, and optimized code
+- Designing robust RESTful APIs and backend architectures
+- Continuously learning and exploring modern technologies
+
+🚀 Tech Stack in Progress:
+
+- Backend: Go, Node.js
+- Database: MySQL, PostgreSQL, MongoDB
+- Other: Git, Docker, REST APIs
+
+📌 Always excited to take on challenging projects, solve complex problems, and collaborate with like-minded developers to create meaningful software.
 
 
-## 😎 Skillset :
 
-#### Programming Languages:   `JavaScript` `ES6` 
+## 😎 Skills:
 
-#### Javascript backend Frameworks/Libraries:  `expressjs` `mongoose` `Prisma`
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>API</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-#### Databases:`MongoDB` `mySQL` `PostgresSQL`
-
-#### Comfortable with:  `REST API`
-
-## Familiar with: 
-
-#### Tools: `VS code` `Git `  `GitHub`
-
-<hr>
+---
 
 
-<hr>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>
-
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-
-</div>
-<hr>
-<a href="https://docs.google.com/document/d/1EIHkpD5tZ56WjVi8Uqr7E3AS-gZOos4odi-m8ke0CcA/edit?usp=sharing" style="text-decoration: none"  target="_blank">
- <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="download" border="0">
-  </a>
-
-<hr>
 
